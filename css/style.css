@@ -75,8 +75,8 @@
     background-color: #2E2F42;
 }
 .hero-title {
-    line-height: 60px;
-    font-size: 0.93;
+    font-size: 56px;
+    line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
@@ -103,7 +103,6 @@
 
 }
 .section-title {
-    font-weight: 700;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -112,7 +111,6 @@
 }
 
 .section-text{
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -142,7 +140,6 @@ color:  var(--title-color);
 .team {
 }
 .team-title { 
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -152,7 +149,6 @@ color:  var(--title-color);
 }
 
 .team-people {
-    font-weight: 700;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -174,7 +170,7 @@ color:  var(--title-color);
 .footer-logo {
     font-family: 'Raleway';
     font-style: normal;
-    ont-weight: 800;
+    font-weight: 800;
     font-size: 18px;
     line-height: 1.66;
     letter-spacing: 0.03em;
