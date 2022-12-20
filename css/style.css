@@ -25,7 +25,6 @@
 
 .header-logo{
     font-family: 'Raleway';
-    font-style: normal;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.66;
@@ -57,7 +56,6 @@
 
 
 .contacts-list .couple {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -204,31 +202,27 @@ color:  var(--title-color);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing:4%;         
+    letter-spacing: 0.04em;         
     color: #FFFFFF;
     background-color: var(--accent-color);
     cursor: pointer;
 
 }
-.portfolio-main-button:focus {
-
-}
-
 .portfolio-same-button{
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing:4%;         
+    letter-spacing: 0.04em;         
     color: var(--accent-color);
     background-color:#F4F4FD;;
-   cursor: pointer;
+    cursor: pointer;
 }
 
-.portfolio-same-button:focus{
+.portfolio-same-button:focus
+.portfolio-main-button:focus{
 
 }
-
 
 /*========</BUTTONS>======= */
 
