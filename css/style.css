@@ -4,7 +4,7 @@
  }
  body {
     background-color:#FFFFFF;
-    color:#434455;
+    color:#434455;;
     font-family:'roboto', roboto-serif ;
  }
 
@@ -187,3 +187,71 @@ color:  var(--title-color);
     color: #E7E9FC;
 }
 /* ==========================</FOOTER>================== */
+
+
+
+
+/* ===================<PORTFOLIO (PAGE # 2)>===================*/
+
+/*========<BUTTONS>======= */
+
+.for-future {
+   opacity: 0;
+}
+
+.portfolio-main-button {
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing:4%;         
+    color: #FFFFFF;
+    background-color: var(--accent-color);
+    cursor: pointer;
+
+}
+.portfolio-main-button:focus {
+
+}
+
+.portfolio-same-button{
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing:4%;         
+    color: var(--accent-color);
+    background-color:#F4F4FD;;
+   cursor: pointer;
+}
+
+.portfolio-same-button:focus{
+
+}
+
+
+/*========</BUTTONS>======= */
+
+/*=========</PORTFOLIO>========*/
+
+.portfolio-about {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--title-color) ;
+}
+
+.portfolio-text {
+    font-size: 16px;
+    line-height:1.5;
+    letter-spacing: 0.02em;
+}
+
+/*=========</PORTFOLIO>========*/
+
+
+
+
+
+/* ===================</PORTFOLIO (PAGE # 2)>===================*
